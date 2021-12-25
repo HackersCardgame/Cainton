@@ -1,0 +1,2 @@
+https://www.rust-lang.org/tools/install
+https://visualstudio.microsoft.com/de/visual-cpp-build-tools/
